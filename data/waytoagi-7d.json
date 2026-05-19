@@ -1,20 +1,30 @@
 {
-  "generated_at": "2026-05-19T10:47:12.333589Z",
+  "generated_at": "2026-05-19T13:54:46.612580Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-19",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-05-19",
+      "title": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-19",
       "title": "Anthropic 重磅升级Managed Agents，推出自托管沙箱与 MCP 隧道两大核心能力，打破智能体部署与数据安全壁垒。此次更新将执行环境下放至客户侧，支持对接四大云服务商，兼顾灵活部署与极致安全。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-05-19",
+      "title": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-19",
       "title": "Anthropic 重磅升级Managed Agents，推出自托管沙箱与 MCP 隧道两大核心能力，打破智能体部署与数据安全壁垒。此次更新将执行环境下放至客户侧，支持对接四大云服务商，兼顾灵活部署与极致安全。",
