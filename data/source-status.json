@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-01T23:23:30.764917Z",
+  "generated_at": "2026-07-02T01:31:45.383831Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 200,
-      "duration_ms": 7165,
+      "item_count": 198,
+      "duration_ms": 3091,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 257,
+      "duration_ms": 225,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 39,
-      "duration_ms": 83,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 455,
+      "duration_ms": 548,
       "error": null
     },
     {
@@ -38,31 +38,31 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 255,
+      "duration_ms": 418,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 125264,
-      "error": "HTTPSConnectionPool(host='iris.findtruman.io', port=443): Max retries exceeded with url: /web/info_flow (Caused by ConnectTimeoutError(<HTTPSConnection(host='iris.findtruman.io', port=443) at 0x7f062ca13f90>, 'Connection to iris.findtruman.io timed out. (connect timeout=30)'))"
+      "ok": true,
+      "item_count": 375,
+      "duration_ms": 10703,
+      "error": null
     },
     {
       "site_id": "bestblogs",
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 3751,
+      "duration_ms": 963,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3023,
-      "duration_ms": 1687,
+      "item_count": 3003,
+      "duration_ms": 1377,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 76,
-      "duration_ms": 627,
+      "duration_ms": 476,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 362,
+      "duration_ms": 198,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1588,
+      "duration_ms": 1151,
       "error": null
     },
     {
@@ -94,18 +94,16 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 130,
-      "duration_ms": 450,
+      "duration_ms": 864,
       "error": null
     }
   ],
-  "successful_sites": 11,
-  "failed_sites": [
-    "iris"
-  ],
+  "successful_sites": 12,
+  "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 4648,
-  "items_before_topic_filter": 6002,
-  "items_in_24h": 655,
+  "fetched_raw_items": 5001,
+  "items_before_topic_filter": 6387,
+  "items_in_24h": 682,
   "rss_opml": {
     "enabled": false,
     "path": null,
