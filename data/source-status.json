@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T07:25:52.455186Z",
+  "generated_at": "2026-09-01T00:28:28.227507Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 169,
-      "duration_ms": 2178,
+      "item_count": 177,
+      "duration_ms": 2953,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 139,
+      "duration_ms": 64,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 23,
-      "duration_ms": 91,
+      "duration_ms": 272,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 499,
+      "duration_ms": 365,
       "error": null
     },
     {
@@ -38,39 +38,39 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 293,
+      "duration_ms": 433,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
-      "ok": true,
-      "item_count": 382,
-      "duration_ms": 15987,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 181088,
+      "error": "HTTPSConnectionPool(host='iris.findtruman.io', port=443): Max retries exceeded with url: /web/info_flow (Caused by ResponseError('too many 502 error responses'))"
     },
     {
       "site_id": "bestblogs",
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 872,
+      "duration_ms": 1395,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3047,
-      "duration_ms": 1781,
+      "item_count": 3031,
+      "duration_ms": 2555,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 72,
-      "duration_ms": 410,
+      "item_count": 78,
+      "duration_ms": 657,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5160,
+      "duration_ms": 5001,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -86,27 +86,28 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2055,
+      "duration_ms": 1721,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 129,
-      "duration_ms": 1047,
+      "item_count": 126,
+      "duration_ms": 1826,
       "error": null
     }
   ],
-  "successful_sites": 10,
+  "successful_sites": 9,
   "failed_sites": [
     "aibreakfast",
+    "iris",
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4992,
-  "items_before_topic_filter": 4322,
-  "items_in_24h": 380,
+  "fetched_raw_items": 4605,
+  "items_before_topic_filter": 3412,
+  "items_in_24h": 339,
   "rss_opml": {
     "enabled": false,
     "path": null,
